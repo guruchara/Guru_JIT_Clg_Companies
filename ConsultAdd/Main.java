@@ -1,3 +1,47 @@
+
+// We have string which contains characters 
+
+// Input format be like 
+
+// First line contains string
+// Second line contains integer
+// Third line contains character 
+
+// Test case 1 : 
+// ===========
+// Input :  
+
+// String str=  abcc
+// Int m=  2
+
+// a  b
+// c  b 
+
+// Output :  YES
+
+// Test case 2 : 
+// ============
+
+// String str=  abcd
+// Int m=  2
+
+// a  b
+// c  b 
+
+// Output :  NO
+
+// Test case 3: 
+// ============
+
+// String str=  abc
+// Int m=  2
+
+// a  b
+// c  d
+
+// Output :  NO
+
+// -----------------------------------------------------------------------------------
 import java.util.*;
 
 public class Main {
