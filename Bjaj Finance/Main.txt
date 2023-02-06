@@ -1,5 +1,5 @@
 
 Implement simple page by using ReactJs or Angular and Make rest API by using nodejs
-for Storgin the form page data 
+for Store the form page data in mongod and aslo deploy on deployement palotform like heroku, netlify, firebase ... cyclic
 
 
